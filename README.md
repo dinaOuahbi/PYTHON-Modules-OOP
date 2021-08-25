@@ -21,7 +21,10 @@ W'll see some of them : math / stat / random / glob / os
 -----------------------------------------------------------------------------------------------------------
 OBJECT ORIENTED programing (OOP)
 
-In oop: everything is an object
+In oop: everything is an object.
+
 All objects have attributes and perform actions.
-Actions are called "methods."
-Notion of class = object design plan, allows to build different objects of the same class
+
+Actions are called "methods"
+
+Notion of class = object design plan, allows to build different objects of the same class .
